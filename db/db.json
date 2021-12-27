@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "title": "JavaScript",
+      "author": "Shashi",
+      "id": 1
+    },
+    {
+      "title": "javascript",
+      "author": "divya",
+      "id": 2
+    },
+    {
+      "title": "Java",
+      "author": "Dixith",
+      "id": 4
+    },
+    {
+      "title": "React",
+      "author": "Shashi",
+      "id": 5
+    },
+    {
+      "title": "MongoDb",
+      "author": "Mr. Shashi",
+      "id": 6
+    }
+  ]
+}
